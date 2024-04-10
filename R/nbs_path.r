@@ -18,3 +18,9 @@ bal <- rpath(unbal) # balanced
 
 juv_groups <- c("pollock_juv","pcod_juv","arrowtooth_juv","gr_turbot_juv",
                 "halibut_juv")
+
+write.Rpath(bal, "C:/Users/andy.whitehouse/Work/Andy/REEM/ACLIM/NBS/Rpath/nbs_notbal2.csv",
+            morts=F)
+print(bal)
+
+webplot(bal, labels=TRUE, fleets=TRUE)
