@@ -1,7 +1,7 @@
 Group,Type,Biomass,PB,QB,EE,ProdCons,BioAcc,Unassim,DetInput,Disc.offal,PelDetFate,BenthDetFate,F_beluga,F_bowhead,F_walrus,F_bearded,F_ringed,F_spotted,F_ribbon,F_herring,F_king_crab,Disc_beluga,Disc_bowhead,Disc_walrus,Disc_bearded,Disc_ringed,Disc_spotted,Disc_ribbon,Disc_herring,Disc_king_crab
 transient_killer_whales,0,0.000252309,0.02542091,4.1,,,0,0.2,,0,0.4,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 harbor_porpoise,0,0.003153344,0.05,30.1,,,0,0.2,,0,0.4,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-beluga,0,0.048891701,0.112092,15.3,,,0,0.2,,0,0.4,0.6,0.00059847,0,0,0,0,0,0,0,0,5.98E-07,0,0,0,0,0,0,0,0
+beluga,0,0.048891701,0.112092,15.3,,,0,0.2,,0,0.4,0.6,0.000590158,0,0,0,0,0,0,0,0,5.90E-07,0,0,0,0,0,0,0,0
 gray_whales,0,0.900921118,0.063365,7.9,,,0,0.2,,0,0.4,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 bowhead_whales,0,0.42971053,0.01005,4.5,,,0,0.2,,0,0.4,0.6,0,0.001470772,0,0,0,0,0,0,0,0,1.47E-06,0,0,0,0,0,0,0
 oth_baleen_whales,0,0.040287896,0.068763902,7.00059698,,,0,0.2,,0,0.4,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
